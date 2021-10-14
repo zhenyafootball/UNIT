@@ -1,0 +1,21 @@
+body{
+    background-color: #c6c4c4;
+    color: black;
+}
+.Name{
+    text-align: center;
+
+}
+.target{
+    text-align: center;
+
+}
+img {
+    font-size: 600px;
+    width: 1000px;
+    height: 500px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
